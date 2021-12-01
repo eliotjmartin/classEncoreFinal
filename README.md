@@ -8,6 +8,7 @@ Prep Questions and Answers
 2.	How is a queue different from a stack?
 
 Queue -> FIFO
+
 Stack -> LIFO
 
 3.	How is the load factor of a hash table computed?
