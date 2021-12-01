@@ -28,6 +28,7 @@ the worst case time complexity The most naive pivot selection algorithm is to ju
 7.	What does it mean for a sorting algorithm to be stable? 
 
 If element1 precedes element2 in the unordered input array, and element1 and element2 have the same key, then element1 precedes element2 in the ordered output array
+
 8.	Assume you are interested in the ith element of a linked list of length n. Why can you not access this element in O(1)?
 
 Elements not adjacent in memory
